@@ -28,7 +28,7 @@ jobs:
     env:
       RDP_USER: Bullettemporary
       RDP_PASS: Bullet@12345
-      MAIN_RUNTIME_MIN: 500
+      MAIN_RUNTIME_MIN: 540
       BREAK_MIN: 20
 
     steps:
